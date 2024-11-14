@@ -1,0 +1,22 @@
+.Quote {
+  text-align: center;
+}
+.Quote h1 {
+  font-family: Impact;
+  font-size: 80px;
+}
+.Quote p {
+  font-size: 35px;
+}
+
+.Quote button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.Quote button:hover {
+  background-color: green;
+}
